@@ -1,3 +1,12 @@
 # hello-world
-Test repository 
-I'm Simon. That's enough for now
+
+## Hello Simon
+
+I'm Simon. 
+
+* Some 
+* Text
+* In
+* Bullet
+* Points
+
